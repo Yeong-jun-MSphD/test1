@@ -2,4 +2,4 @@
 print('Hello, bioinfomatics')
 
 
-print('Hi, Linux~')
+print('Hi, Linux~. tired')
